@@ -3,12 +3,12 @@ Javascript, ES6 exercises
 
 
 ## Exercici repàs ES6 (React M6)
-Aquest exercici és molt senzill: es plantegen petits fragments de codi JavaScript ES5, els quals s'han de reescriure per a utilitzar la nomenclatura d'ES6 i resoldre petits reptes mitjançant ES6.
-L'objectiu és repassar els coneixements adquirits d'ES6
+Aquest exercici és molt senzill: es plantegen petits fragments de codi JavaScript ES5, els quals s'han de reescriure per a utilitzar la nomenclatura d'ES6 i resoldre petits reptes mitjançant ES6. L'objectiu és repassar els coneixements adquirits d'ES6
 
 ### Exercici 1
 Mostra els literals en format ES6
-``
+
+```
 var li =
  '<li>' +
 '<div class="row">' +
@@ -20,7 +20,7 @@ var li =
 '</div>' +
 '</div>' +
 '</li>';
-````
+```
 
 ### Exercici 2
 Converteix a funcions fletxa:
